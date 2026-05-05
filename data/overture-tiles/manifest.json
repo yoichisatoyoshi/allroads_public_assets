@@ -1,0 +1,46 @@
+{
+  "generated_at": "2026-04-29T09:33:49.976354+00:00",
+  "config": {
+    "tile_degrees": 0.05,
+    "area": "japan",
+    "bbox": [
+      129.0,
+      30.0,
+      146.0,
+      46.0
+    ],
+    "min_confidence": 0.0,
+    "batch_size": 5000,
+    "poi_taxonomy_roots": [
+      "food_and_drink",
+      "lodging",
+      "travel_and_transportation",
+      "sports_and_recreation",
+      "lifestyle_services",
+      "cultural_and_historic",
+      "community_and_government",
+      "shopping",
+      "arts_and_entertainment",
+      "health_care",
+      "geographic_entities"
+    ],
+    "road_excluded_classes": [
+      "footway",
+      "path",
+      "steps",
+      "pedestrian"
+    ]
+  },
+  "stats": {
+    "poi": {
+      "tile_count": 14860,
+      "entry_count": 2296120,
+      "total_bytes": 133073695
+    },
+    "road": {
+      "tile_count": 19802,
+      "entry_count": 1553461,
+      "total_bytes": 160892879
+    }
+  }
+}

@@ -1,0 +1,7 @@
+.DS_Store
+
+# Keep Overture tile payloads tracked even if global ignore contains *.gz
+!data/overture-tiles/
+!data/overture-tiles/road/
+!data/overture-tiles/poi/
+!data/overture-tiles/**/*.json.gz

@@ -3,12 +3,12 @@
 ## Included Data
 
 - data/overture-tiles/
-  - Overture Maps 由来の加工タイルデータ
-  - road/（道路タイル）
-  - poi/（POIタイル）
-  - manifest.json（生成情報）
+  - Processed tile data derived from Overture Maps
+  - road/ (road tiles)
+  - poi/ (POI tiles)
+  - manifest.json (generation metadata)
 - data/N06-20/
-  - N06-20_Joint.geojson（国土数値情報由来データ）
+  - N06-20_Joint.geojson (derived from Japan National Land Numerical Information)
 
 ## Data Source and Attribution
 
@@ -33,4 +33,4 @@ https://nlftp.mlit.go.jp/
 
 Use and redistribution must follow the National Land Numerical Information terms of use.
 
-詳細な表記は NOTICE を参照してください。
+See NOTICE for full attribution details.
